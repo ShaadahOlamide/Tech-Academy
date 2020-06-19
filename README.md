@@ -1,2 +1,2 @@
 # Tech-Academy
-this is my first Website
+Tis is my first Website
